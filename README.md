@@ -31,7 +31,7 @@ This repository is a last-minute revision sheet for Python technical interviews.
 Clone the repository and open files locally or in a Jupyter environment:
 
 ```bash
-git clone https://github.com/your-username/python-interview-questions.git
+git clone https://github.com/AdrikaPanwar/python-interview-questions.git
 cd python-interview-questions
 ```
 
